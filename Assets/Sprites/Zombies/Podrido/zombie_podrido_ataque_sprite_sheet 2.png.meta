@@ -1,0 +1,240 @@
+fileFormatVersion: 2
+guid: c837a410662314b45b8011ad96dbb4eb
+timeCreated: 1507524600
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: zombie_podrido_ataque_sprite_sheet 2_0
+    21300002: zombie_podrido_ataque_sprite_sheet 2_1
+    21300004: zombie_podrido_ataque_sprite_sheet 2_2
+    21300006: zombie_podrido_ataque_sprite_sheet 2_3
+    21300008: zombie_podrido_ataque_sprite_sheet 2_4
+    21300010: zombie_podrido_ataque_sprite_sheet 2_5
+    21300012: zombie_podrido_ataque_sprite_sheet 2_6
+    21300014: zombie_podrido_ataque_sprite_sheet 2_7
+    21300016: zombie_podrido_ataque_sprite_sheet 2_8
+    21300018: zombie_podrido_ataque_sprite_sheet 2_9
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 48
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zombie_podrido_ataque_sprite_sheet 2_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 173
+        width: 57
+        height: 74
+      alignment: 9
+      pivot: {x: 0.62048364, y: 0.03597466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_podrido_ataque_sprite_sheet 2_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 173
+        width: 55
+        height: 85
+      alignment: 9
+      pivot: {x: 0.36126098, y: 0.019718485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_podrido_ataque_sprite_sheet 2_2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 173
+        width: 40
+        height: 82
+      alignment: 9
+      pivot: {x: 0.04216156, y: 0.016105652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_podrido_ataque_sprite_sheet 2_3
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 173
+        width: 40
+        height: 82
+      alignment: 9
+      pivot: {x: 0.03262329, y: 0.0068000234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_podrido_ataque_sprite_sheet 2_4
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 173
+        width: 40
+        height: 82
+      alignment: 9
+      pivot: {x: 0.036434937, y: 0.02179197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_podrido_ataque_sprite_sheet 2_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 173
+        width: 67
+        height: 82
+      alignment: 9
+      pivot: {x: 0.30490977, y: 0.025498925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_podrido_ataque_sprite_sheet 2_6
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 173
+        width: 56
+        height: 79
+      alignment: 9
+      pivot: {x: 0.36972374, y: 0.026718913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_podrido_ataque_sprite_sheet 2_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 47
+        width: 65
+        height: 79
+      alignment: 9
+      pivot: {x: 0.4532344, y: 0.022871427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_podrido_ataque_sprite_sheet 2_8
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 48
+        width: 75
+        height: 79
+      alignment: 9
+      pivot: {x: 0.52837116, y: 0.022871235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_podrido_ataque_sprite_sheet 2_9
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 46
+        width: 112
+        height: 81
+      alignment: 9
+      pivot: {x: 0.6845575, y: 0.049663592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

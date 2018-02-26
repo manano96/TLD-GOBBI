@@ -1,0 +1,21 @@
+﻿var tiempo_start : float = 0.0; 
+var tiempo_end : float = 0.0; 
+var escena : String; 
+var Player : GameObject;
+
+
+
+function Update (){
+    tiempo_start += Time.deltaTime;
+    if (tiempo_start>=tiempo_end || Input.GetKeyDown("s"))
+	{
+
+
+
+		Instantiate(Player, new Vector2(0f, 0f), Quaternion.identity);
+
+
+        Application.LoadLevel(escena); 
+    }
+
+}
